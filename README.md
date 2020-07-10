@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**lmeazzini/lmeazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Luis Henrique Meazzini Sepulvene
+MSc. on computer science, computer engineer with knowledge in programming, data science, artificial intelligence, financial market and fault diagnosis. Passionate about science, with strong theoretical and technical experience, good interpersonaland business skills for working in a team and achieve success.
 
-Here are some ideas to get you started:
+Experience and interest in the areas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Predictive temporal series models;
+- Fault diagnosis;
+- Anomaly/Fraud Detection;
+- Computer vision;
+- Natural Language Processing;
+- Web Scrapping;
+- Optimization and computational modeling;
+- Embedded systems;
+
+### Some personal links
+- Personal blog: https://lmeazzini.github.io/
+- Medium articles: https://medium.com/@luismeazzini
+- 📫 How to reach me:
+  - luis.meazzini@gmail.com
+  - https://www.linkedin.com/in/lmeazzini/
